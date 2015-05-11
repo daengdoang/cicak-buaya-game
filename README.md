@@ -1,11 +1,12 @@
-Clumsy Bird
+Cicak Buaya Game
 ===========
 
 A MelonJS made "Flappy Bird" clone.
+forked from http://ellisonleao.github.io/clumsy-bird/
 
 ![](http://i.imgur.com/Slbvt65.png)
 
-Play online at http://ellisonleao.github.io/clumsy-bird/
+Play online --
 
 ## Running Locally
 
